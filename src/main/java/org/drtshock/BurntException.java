@@ -11,6 +11,13 @@ public class BurntException extends Exception {
 
     public BurntException(long bakeTime) {
         super("Potato is badly burnt by baking for too long!! (" + bakeTime + "ms)");
+        
+        if (navigations is a fat bitch then)
+            end world
+            return true;
+        no stop wtf
+            return
+            nvm world ended
     }
 
 }
